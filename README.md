@@ -1,3 +1,5 @@
+# ✡️ Kabbalistic LBRP Algorithm Simulator
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
@@ -19,27 +21,15 @@
 
 *Where Ancient Mysticism Meets Modern Computation*
 
-<div align ="center" style="padding-top: 20px; padding-bottom: 20px; background-color: #f0f0f0; style="font-size: 20px;""> ✡️ Kabbalistic LBRP Algorithm Simulator </div>
-
-<div align="center">
-  
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![Streamlit](https://img.shields.io/badge/streamlit-1.28.0-FF4B4B)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Hermetic](https://img.shields.io/badge/hermetic-qabalah-purple)
-
-**An Interactive Computational Simulation of the Lesser Banishing Ritual of the Pentagram**
-
-[![Demo](https://img.shields.io/badge/🪄-Live_Demo-9cf)](https://lbrp-simulator.streamlit.app)
-[![Documentation](https://img.shields.io/badge/📚-Documentation-blue)](https://github.com/yourusername/lbrp-simulator/wiki)
-
-*Where Ancient Mysticism Meets Modern Computation*
-
 </div>
 
 ---
 
+<div align="center">
+
 ## 🌟 Table of Contents
+
+</div>
 
 - [🌌 Project Overview](#-project-overview)
 - [⚙️ Installation & Setup](#️-installation--setup)
@@ -58,7 +48,11 @@
 
 ---
 
+<div align="center">
+
 ## 🌌 Project Overview
+
+</div>
 
 **LBRP Algorithm Simulator** is a groundbreaking fusion of Western esoteric tradition and modern computational science. This interactive application models the Lesser Banishing Ritual of the Pentagram—a cornerstone of Hermetic Qabalah—as a deterministic algorithm with measurable spiritual outputs.
 
@@ -86,7 +80,11 @@ graph LR
 
 ---
 
+<div align="center">
+
 ## ⚙️ Installation & Setup
+
+</div>
 
 ### Prerequisites
 
@@ -196,7 +194,11 @@ lbrp-simulator/
 
 ---
 
+<div align="center">
+
 ## 🚀 Features
+
+</div>
 
 ### Interactive Ritual Simulation
 
@@ -235,7 +237,11 @@ class RitualState:
 
 ---
 
+<div align="center">
+
 ## 📊 System Architecture
+
+</div>
 
 <div align="center">
 
@@ -286,7 +292,11 @@ graph TB
 
 ---
 
+<div align="center">
+
 ## 🔮 Kabbalistic Foundations
+
+</div>
 
 ### Historical Timeline
 
@@ -340,7 +350,11 @@ timeline
 
 ---
 
+<div align="center">
+
 ## ⚛️ Hermetic-Quantum Worldview
+
+</div>
 
 ### Philosophical Synthesis
 
@@ -406,7 +420,11 @@ class QuantumConsciousness:
 
 ---
 
+<div align="center">
+
 ## 🔄 Ritual Algorithm Workflow
+
+</div>
 
 ### Complete Algorithm Flow
 
@@ -489,7 +507,11 @@ class RitualOptimizer:
 
 ---
 
+<div align="center">
+
 ## 📈 Performance Metrics
+
+</div>
 
 ### Ritual Effectiveness Dashboard
 
@@ -521,7 +543,11 @@ xychart-beta
 
 ---
 
+<div align="center">
+
 ## 🧪 Development Roadmap
+
+</div>
 
 ### Current Version: v1.0.0 (Stable)
 
@@ -558,7 +584,11 @@ xychart-beta
 
 ---
 
+<div align="center">
+
 ## 🤝 Contributing
+
+</div>
 
 We welcome contributions from mystics, programmers, and interdisciplinary researchers!
 
@@ -597,7 +627,11 @@ We welcome contributions from mystics, programmers, and interdisciplinary resear
 
 ---
 
+<div align="center">
+
 ## 📚 References
+
+</div>
 
 ### Primary Sources
 
@@ -622,7 +656,11 @@ We welcome contributions from mystics, programmers, and interdisciplinary resear
 
 ---
 
+<div align="center">
+
 ## ⚖️ License
+
+</div>
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -647,9 +685,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🕯️ Final Invocation
 
+</div>
+
 > *"In the name of the Light that illuminates all understanding,
 > May this work serve the highest good of all beings.
 > So mote it be."*
+
+<div align="center">
 
 **[⬆ Back to Top](#-kabbalistic-lbrp-algorithm-simulator)**
 
