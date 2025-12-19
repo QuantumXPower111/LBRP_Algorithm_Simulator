@@ -21,10 +21,8 @@
 
 </div>
 
-# ✡️ Kabbalistic LBRP Algorithm Simulator
-
 <div align="center">
-
+# ✡️ Kabbalistic LBRP Algorithm Simulator
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28.0-FF4B4B)
 ![License](https://img.shields.io/badge/license-MIT-green)
